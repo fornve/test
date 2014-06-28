@@ -4,6 +4,6 @@
  * This is a test for code review
  */
 
-$test = 'test';
+$test = 'test 2';
 
 echo $test;
